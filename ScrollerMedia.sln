@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5619F8FF-A047-4CA5-B564-BB494E48BBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollerMedia", "ScrollerMedia\ScrollerMedia\ScrollerMedia.csproj", "{2A821116-9AB2-4F7F-9C36-178F2654FDD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "ScrollerMedia\DAL\DAL.csproj", "{544559C5-E78E-4048-9EA8-D980445D44AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A821116-9AB2-4F7F-9C36-178F2654FDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A821116-9AB2-4F7F-9C36-178F2654FDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A821116-9AB2-4F7F-9C36-178F2654FDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A821116-9AB2-4F7F-9C36-178F2654FDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544559C5-E78E-4048-9EA8-D980445D44AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544559C5-E78E-4048-9EA8-D980445D44AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544559C5-E78E-4048-9EA8-D980445D44AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544559C5-E78E-4048-9EA8-D980445D44AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A821116-9AB2-4F7F-9C36-178F2654FDD0} = {5619F8FF-A047-4CA5-B564-BB494E48BBF5}
+		{544559C5-E78E-4048-9EA8-D980445D44AE} = {5619F8FF-A047-4CA5-B564-BB494E48BBF5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499FEEA0-B366-4519-8E80-2D74467ACC74}
+	EndGlobalSection
+EndGlobal
