@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollerMedia", "ScrollerMedia\ScrollerMedia.csproj", "{712F7294-7F2E-430F-97A3-D4AE2E50EE59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollerMedia", "ScrollerMedia\ScrollerMedia.csproj", "{B71AA352-9286-44AE-A548-8103755C90F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{712F7294-7F2E-430F-97A3-D4AE2E50EE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{712F7294-7F2E-430F-97A3-D4AE2E50EE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{712F7294-7F2E-430F-97A3-D4AE2E50EE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{712F7294-7F2E-430F-97A3-D4AE2E50EE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71AA352-9286-44AE-A548-8103755C90F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71AA352-9286-44AE-A548-8103755C90F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71AA352-9286-44AE-A548-8103755C90F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71AA352-9286-44AE-A548-8103755C90F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
