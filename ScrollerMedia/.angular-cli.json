@@ -11,10 +11,16 @@
         {
           "glob": "**/*",
           "input": "./assets/",
+          "output": "./assets/"
+        },
+        {
+          "glob": "**/*",
+          "input": "./assets/",
           "output": "../assets/"
         },
         "favicon.ico"
       ],
+      "deployUrl": "/dist/",
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
